@@ -1,0 +1,6 @@
+{
+  "name": "3D Tanklar Janggi",
+  "description": "Qizil va Ko'k jamoalar o'rtasidagi shiddatli va chiroyli 3D tank o'yini. Kompyuterga qarshi yoki ikki kishilik rejimda jang qiling!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
